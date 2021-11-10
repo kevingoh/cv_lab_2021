@@ -26,6 +26,6 @@ The constant-false-alarm-rate (CFAR) detection algorithm is used for the detecti
 
 ## Interesting Projects
 
-* https://github.com/nasir6/py_cfar
-* 
+* https://github.com/nasir6/py_cfar (cpp)
+* https://github.com/iroek/CFAR (py)
 
