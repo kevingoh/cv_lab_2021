@@ -23,3 +23,9 @@ refs:
 * https://core.ac.uk/download/pdf/82170779.pdf (very easy to read!!!!)
 
 The constant-false-alarm-rate (CFAR) detection algorithm is used for the detection of an optical target in an image dominated by optical clutter. The algorithm can be used for many aerial images when a clutter-subtraction technique is incorporated. To approximate the assumption of a constant covariance matrix, the digital image scene is partitioned into subimages and the CFAR algorithm is applied to the subimages. For each subimage, local means must be computed; the “best” local mean is the one that minimizes the third moment. 
+
+## Interesting Projects
+
+* https://github.com/nasir6/py_cfar
+* 
+
