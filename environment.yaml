@@ -1,6 +1,8 @@
 name: cvlab2
 channels:
   - defaults
+  - conda-forge
+  - pytorch
 dependencies:
   - numpy
   - scikit-image
@@ -10,6 +12,10 @@ dependencies:
   - jupyter
   - ipympl
   - pip
+  - pytorch
+  - torchvision
+  - av
+  - glob
   - pip:
     - opencv-python
     - imutils
